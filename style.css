@@ -1,3 +1,28 @@
-.colorRed {
-    color: red;
+header {
+ background-color: rgb(233, 26, 140);
+}
+
+body {
+    margin: 0;
+    width: 900 px;
+}
+
+#main-title a {
+    text-decoration: none;
+    color:aquamarine;
+}
+
+.text-article p:first-child {
+    font-weight: bold;
+}
+
+.text-article {
+    margin: 20px 25px;
+    padding: 20px 25px;
+    border: 2px solid darkblue;
+    text-align: center;
+}
+
+footer a {
+    text
 }
